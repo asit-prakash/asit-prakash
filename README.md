@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋  My name is Asit. I am a React developer who loves to build things in React.
 
 <!--
 **asit-prakash/asit-prakash** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
