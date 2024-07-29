@@ -4,6 +4,8 @@
 
 A Software Engineer specializing in JavaScript technologies.
 
+I don’t have much on GitHub because I mostly write code that makes money.
+
 ---
 
 <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="HTML" width="50" height="50"/> <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" alt="CSS" width="50" height="50"/>
